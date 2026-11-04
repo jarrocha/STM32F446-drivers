@@ -4,6 +4,7 @@ Bare-metal, register-level drivers for the STM32F446 (ARM Cortex-M4), written
 without ST's HAL to review and reinforce the basics of microcontroller
 programming. The project was built with STM32CubeIDE.
 
+
 ### Blog post
 
 - [STM32 SPI Driver Testing with Logic Analyzer](https://jarrocha.github.io/post/spi_driver_test/):
